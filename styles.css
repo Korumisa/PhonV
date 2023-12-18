@@ -225,3 +225,12 @@ span {
         margin-bottom: 3rem;
     }
 }
+
+@media screen and (max-width: 1024px) {
+    .main h1 {
+        color: white;
+        font-family: 'poppins';
+        font-size: 2.5rem;
+    }
+
+}
